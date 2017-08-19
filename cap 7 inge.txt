@@ -1,10 +1,6 @@
 Capitulo 7
 
 Arquitectura de diseño:
-la o las estructuras del sistemas que
-abarcan elementos de software, propiedades
-externas visibles para esos elementos y las 
-relaciones entre ellos.
 
 diseño detallado: los componentes son descompuestos
 a un nivel mas detallado.
@@ -53,3 +49,4 @@ implementación
 
 
 
+sapaiiiiiiii
