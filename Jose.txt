@@ -1,0 +1,75 @@
+Comandos importantes para Mathematica:
+
+[]: funciones
+(): expresiones albegraicas y/o matematicas.
+{}: listas
+
+" ": que me forme un texto.
+* *: para hacer comentarios, sin embargo, un solo * se interpreta como 
+una multiplicación, osea (*comentario*).
+% : hacer llamado al último resultado, así sucesivamente con %% o %%%.
+; : separa instrucciones dentro de una misma línea o misma celda.
+Shift + Enter: ejecuta las instrucciones que se le escriben.
+
+Aproximación de números racionales:
+
+N[numero]... ejemplo: N[2/3]: 0.66667
+
+N[Pi] ó N[Pi,5] (para 5 decimales)
+
+Sqrt= raíces cuadradas.
+
+>, <, >=, <=, == : comparar algo con dos iguales, no uno solo, uno solo 
+sirve para asignar valores a las variables.
+
+Random [] 
+ClearAll: borra todo.
+
+K=Random[] con este asigna en memoria.
+K:=Random[] el mae asigna a las variables que este direccionando.
+
+Roots: busca raíces de un polinomio. Muchas veces da error.
+Solve: resuelve ecuaciones, a veces roots da error y solve sí logra
+
+Si ocupo el número aproximado, no con raíces entonces utilizo //N, así
+me da una solución numérica.
+
+NSolve: inmediatamente lo hace númerico adelante
+
+Reduce: mas que todo en raíces
+
+RECORDAR siempre utilizar los dos iguales.
+
+Otros comandos:
+
+Comando Simplify: simplificar funciones
+Comando Expand: expandir las funciones
+comando Apart: fracciones parciales.
+
+f[x_]= x^5 casi nunca se usa este, esto quiere decir q lo que yo meta
+va a tomar ese valor despues del igual
+j[x_]:= x^5 
+
+RECORDAR: usar los := para operaciones.
+
+Funciones a trozos:
+
+H[x_/;x>0]=x;
+H[x_/;x<=0]=x^3;
+
+Cuando uso /. quiere decir que le asigno inmediatamente el valor
+a la derecha del punto.
+
+Crear una tabla
+Table[{i,Ppro[i]},{i,11(inicia),13(finaliza),0.1(paso)}]
+
+
+Crear gráfico
+Plot[2 Sin[x] + x, {x, 0, 15}, Filling -> Top]
+
+RegionPlot, si es con una desigualdad
+RegionPlot[x^2+y^3<2,{x,-2,2},{y,-2,2}]
+
+
+RegionPlot[{x^2 < 2  && x + 3 > y}, {x, 0, 5}, {y, 0, 5}]
+aquí es donde x cuadrado es menor que 2 y x mas 3 mayor que y
