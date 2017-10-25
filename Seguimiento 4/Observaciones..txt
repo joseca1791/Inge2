@@ -1,0 +1,10 @@
+1.En autorizados, telefono esta sin tilde en varios lados, tabla, menu agregar y menu editar
+2. En lugar de clave creeeo que se debería usar contraseña
+3. En Gestión de parqueo, el  tipo de cliente "comun" esta sin tilde.
+4. En el mantenimiento de autorizados, no puedo digitar un ID para poner como inactivo un usuario, pero me tira un mensaje de error pidiendolo.
+5. En mantenimiento de usuarios, si yo agrego un usuario (de cualquier tipo) con un mismo nombre no se guardan los cambios sobre este, ¿el primer campo siempre queda fijo?.
+6. En el mantenimiento de usuarios, igual no puedo utilizar la opción de editar el iD, me pasa lo mismo que en la bronca 4.
+7. Un usuario puede ser llenado con números tanto en el nombre como en el apellido, esto tiene alguna razón de ser? (podríamos pensar en que los proveedores lo tomen por chofer1, chofer2, pero creo que lo correcto sería validar que el sistema no pueda ingresar personas con números ni en el nombre ni en los apellidos)
+8. En el mantenimiento de usuarios, puedo agregar tambien con números tanto en el nombre como en los apellidos.
+9. En el mantenimiento de lugares, tampoco me sirve el boton de id cuando estoy en editar.
+10.En el mantenimiento de placas, no me sirve el botón de placa para editar alguna.
