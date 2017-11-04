@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Ejercicio Paradigmas</title>
+    </h:head>
+    <h:body>
+        
+        <h:form id="form">
+    <p:growl id="msgs" showDetail="true" />
+ 
+    <h:panelGrid columns="2" cellpadding="5">
+        
+      
+        
+        <p:outputLabel value="Nombre:" />
+        <p:inputText id="nombreTxt" value="#{ejemplo.nombre}"/>
+ 
+        <p:outputLabel  value="Apellidos:" />
+        <p:inputText id="apellidosTxt" value="#{ejemplo.apellidos}"/>
+ 
+         <p:outputLabel  value="Edad:" />
+        <p:inputText id="edadTxt" value="#{ejemplo.edad}"/>
+        
+         <p:outputLabel  value="Fecha Nacimiento:" />
+        <p:inputText id="nacimientoTxt" value="#{ejemplo.nacimiento}" />
+        
+         <p:outputLabel  value="Clave" />
+        <p:inputText id="claveTxt" value="#{ejemplo.clave}"/>
+        
+         <p:outputLabel  value="Sexo:" />
+        <p:inputText id="sexoTxt" value="#{ejemplo.sexo}"/>
+        
+        
+        <p:outputLabel  value="Firma:" />
+        <p:inputText id="FirmaTxt"/>
+        
+    </h:panelGrid>
+    
+    <!--Apartir de aqui no tienen que modificar nada-->
+    <p:commandButton value="Submit" update="msgs" icon="ui-icon-check" actionListener="#{ejemplo.click}"/>
+ 
+    <p:dialog modal="true" resizable="false" header="Datos" widgetVar="dlg" showEffect="fold">
+        <p:panelGrid id="display" columns="2" columnClasses="label,value">
+            <h:outputText value="Nombre" />
+            <h:outputText value="#{ejemplo.nombre}">
+            </h:outputText>
+ 
+            <h:outputText value="Apellidos:" />
+            <h:outputText value="#{ejemplo.apellidos}">
+            </h:outputText>
+ 
+            <h:outputText value="Edad:" />
+            <h:outputText value="#{ejemplo.edad}">
+            </h:outputText>
+ 
+            <h:outputText value="Nacimiento:" />
+            <h:outputText value="#{ejemplo.nacimiento}">
+                <f:convertDateTime pattern="MM/dd/yyyy" />
+            </h:outputText>
+ 
+            <h:outputText value="Clave:" />
+            <h:outputText value="#{ejemplo.clave}">
+            </h:outputText>
+ 
+            <h:outputText value="Sexo:" />
+            <h:outputText value="#{ejemplo.sexo}">
+            </h:outputText>
+        </p:panelGrid>
+    </p:dialog>
+    
+</h:form>
+    </h:body>
+</html>
+
