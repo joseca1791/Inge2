@@ -1,0 +1,29 @@
+*Hacer filtro si es moto o carro, que ni los muestre.
+Por ejemplo si esta en carro que no aparesca en la lista M1 M2 y así.
+
+*Buscar la forma de arreglar el buscador %
+
+*Cambiar el boton de aceptar por cobrar.
+
+*Mensaje de no es válido cambiarlo por un mensaje como la placa digitada no existe.
+
+*Poner en la parte inferior
+
+Medios de transporte 
+
+- 1 -> significa carro 
+- 2 -> significa moto
+
+Tipo de cliente 
+
+
+- 1 -> significa cliente común
+- 2 -> significa autorizado
+
+
+*Próximo sprint -> Que se vea todo el menú, que se vaya a los módulos.
+
+*Sistema de control de parqueo en todas las ventanas para que no se pierda la identidad.
+Se puede usar siglas también
+
+* En la parte de arriba diga la informacion del login, nombre de usuario, caja etc.
