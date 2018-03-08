@@ -1,8 +1,0 @@
-Capa de Negocio
-
-Segun la documentación oficial de Oracle la capa de Negocio consiste en la logica de las funciones principales de la
-aplicación, ya sea procesamiento de datos implementación de funciones de negocios y administracios de recursos externos
-como bases de datos, suele estar formada por los objetos Java, componentes EJB o los beans conducidos. Pueden usarse
-J2EE para ofrecer servicios de negocios complejos, por ejemplo un servicio de inventario o un calculo de impuestos.
-Los servicios de negocios tambien pueden se pueden crear como servicios web (con el modelo de arquitectura orientada a
-objetos) o como servidores independientes para diferentes servicios.

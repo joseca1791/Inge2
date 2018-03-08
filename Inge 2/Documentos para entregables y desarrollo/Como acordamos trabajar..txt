@@ -1,9 +1,0 @@
-ISI-003-V##-R01
-
-
-1. Base de datos.
-2. Control de carros.
-Relación base de datos/ventanas.
-Logging.
-
-3.Greivin, Alex y Josué se encargan de programación y base de datos.
