@@ -1,0 +1,110 @@
+
+Arrancando el informe ENTRADA [Wed Apr 18 10:49:14 2018] ...
+Fin del informe ENTRADA [Wed Apr 18 10:49:20 2018].
+
+Arrancando el informe SALIDA [Wed Apr 18 10:51:22 2018] ...
+Fin del informe SALIDA [Wed Apr 18 10:51:26 2018].
+
+Arrancando el informe SALIDA [Wed Apr 18 10:55:00 2018] ...
+Fin del informe SALIDA [Wed Apr 18 10:55:04 2018].
+
+Arrancando el informe REPORTES_CIERRES [Fri Apr 20 19:24:41 2018] ...
+Fin del informe REPORTES_CIERRES [Fri Apr 20 19:24:53 2018].
+
+Error al enviar el informe [Wed Apr 25 15:36:57 2018] ...
+REP-0159: Error de sintaxis en la línea de comandos.
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:37:02 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:37:03 2018].
+
+Arrancando el informe CIERRE [Wed Apr 25 15:37:06 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\CIERRE.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\CIERRE.RDF'.
+Fin del informe CIERRE [Wed Apr 25 15:37:06 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:39:23 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:39:23 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:39:30 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:39:31 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:41:12 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:41:12 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:41:17 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:41:17 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:41:34 2018] ...
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+REP-1070: Error al abrir o guardar un documento.
+REP-0110: No se puede abrir el fichero 'C:\Parqueo\MEDIOS_ACTUALES.RDF'.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:41:34 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:46:12 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:46:17 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:46:21 2018] ...
+REP-0099: Informe abortado a petición del usuario.
+REP-0098: Informe no ejecutado - cancelado por el usuario en la pantalla de parámetros.
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:46:46 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:48:50 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:48:55 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:49:07 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:49:12 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:49:45 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:49:50 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:49:53 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:49:58 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:50:01 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:50:06 2018].
+
+Error al enviar el informe [Wed Apr 25 15:53:06 2018] ...
+REP-0159: Error de sintaxis en la línea de comandos.
+
+Error al enviar el informe [Wed Apr 25 15:53:14 2018] ...
+REP-0159: Error de sintaxis en la línea de comandos.
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:53:45 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:53:50 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:54:25 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:54:30 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:54:44 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:54:49 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:55:25 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:55:30 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 15:55:34 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 15:55:39 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 16:00:45 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 16:00:50 2018].
+
+Arrancando el informe CIERRE [Wed Apr 25 16:00:57 2018] ...
+Fin del informe CIERRE [Wed Apr 25 16:01:02 2018].
+
+Arrancando el informe MEDIOS_ACTUALES [Wed Apr 25 16:11:39 2018] ...
+Fin del informe MEDIOS_ACTUALES [Wed Apr 25 16:11:44 2018].
